@@ -35,3 +35,11 @@ jdbc:h2:mem:shopping_cart_db
 ##
 
 ![image](https://github.com/mjameer/DevSecOps/assets/11364104/98d9f41c-ef2d-4ee2-b8da-39f1e2aaaaae)
+
+
+##
+
+High level overview - Long shot
+
+![image](https://github.com/mjameer/DevSecOps/assets/11364104/bb48d5b3-1802-486c-87b0-207e6777a213)
+
