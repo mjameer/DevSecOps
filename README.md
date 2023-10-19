@@ -1,6 +1,14 @@
-# Use this project as reference to Implement DevSecOps
+## Use this project as a reference to Implement DevSecOps
+
 
 <img width="807" alt="image" src="https://github.com/mjameer/Ekart/assets/11364104/d0a9ad69-d277-4d9f-a6f3-da9cb70bd2ac">
+
+
+```
+Continuous Integration does not get rid of bugs, but it does make them dramatically easier to find and remove.
+
+— Martin Fowler
+```
 
 This is a demo project made using **Spring + Thymeleaf**, **Spring Boot**, **Spring Security**, **Thymeleaf**, **Spring Data JPA**, **Spring Data REST, and Docker** and it uses in-memory **H2** DB.
 
