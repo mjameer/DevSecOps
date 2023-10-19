@@ -6,7 +6,8 @@
 ##
 
 ```
-Continuous Integration does not get rid of bugs, but it does make them dramatically easier to find and remove.
+Continuous Integration does not get rid of bugs,
+but it does make them dramatically easier to find and remove.
 
 — Martin Fowler
 ```
@@ -39,7 +40,7 @@ jdbc:h2:mem:shopping_cart_db
 
 ##
 
-High level overview - Long shot
+High-level tools - Long shot
 
 ![image](https://github.com/mjameer/DevSecOps/assets/11364104/bb48d5b3-1802-486c-87b0-207e6777a213)
 
