@@ -1,7 +1,7 @@
 ## Use this project as a reference to Implement DevSecOps
 
 
-<img width="807" alt="image" src="https://github.com/mjameer/Ekart/assets/11364104/d0a9ad69-d277-4d9f-a6f3-da9cb70bd2ac">
+![image](https://github.com/mjameer/DevSecOps/assets/11364104/511ccca9-5f56-4f5d-b9cc-8f1bfe70b0cc)
 
 ##
 
